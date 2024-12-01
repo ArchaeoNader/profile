@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Nader Ramadan CV"
+permalink: /nader-ramadan-cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master's Degree in Archaeology, University of Warsaw, Poland, 2023–2025 (expected)
+* Erasmus Study Mobility, Lucian Blaga University, Sibiu, Romania, Spring 2018
+* Bachelor's Degree in Archaeology and Tourism Guidance, Misr University for Science and Technology, Egypt, 2011–2015 (Final Grade: B+)
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023: Archivist
+  * Museum of Warsaw University, Poland
+  * Duties included: Organizing, preserving, and providing access to digital and analogue records.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2022: Customer Service Representative
+  * Runners Sports LLC, Dubai, UAE
+  * Duties included: Addressing customer inquiries and ensuring timely order fulfillment.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Fall 2020: Customer Service Representative
+  * EMAG, Romania
+  * Duties included: Resolving complaints and tracking customer data.
+
+* Spring 2019: Teaching Assistant
+  * Misr University for Science and Technology, Egypt
+  * Duties included: Supervising field trips and providing academic support.
+
+Certifications
+======
+* Summer 2024: Certificate of Achievement, HTW Dresden – Summer School in Computer and Geoscience in Archaeology
+* 2023: Business Development Foundations – LinkedIn Learning
+* 2022: Web Development Challenger Track – ITIDA & Udacity
+* 2021: Technical Support Fundamentals – Google via Coursera
+* 2017: Grant Proposal Writing & Research Writing – INASP
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical: QGIS, ArcGIS Pro, R/RStudio, WordPress
+* Soft Skills: Leadership, teamwork, problem-solving
+* Languages: Arabic (Native), English (B2)
 
-Publications
+Achievements & Leadership
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Founder & President, Judicial Council, Misr University, 2012–2015
+* Vice President, Student Union, Misr University, 2011
+* Member, Teaching and Learning Council, University of Warsaw, 2024/2025
+
+---
