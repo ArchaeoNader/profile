@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nader's Homepage"
 title_separator          : "-"
 name                     : &name "Nader Ramadan"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "ArchaeoNader/ArchaeoNader.github.io/profile"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.JPG"
   name             : "Nader Ramadan"
   bio              : "Archaeologist | Geospatial specialist"
   location         : "Warsaw, Poland"
