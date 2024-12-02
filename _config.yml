@@ -21,7 +21,7 @@ repository               : "ArchaeoNader/ArchaeoNader.github.io/profile"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Nader Ramadan"
   bio              : "Archaeologist | Geospatial specialist"
   location         : "Warsaw, Poland"
